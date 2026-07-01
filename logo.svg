@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 80" width="260" height="80">
+  <rect width="260" height="80" fill="white" rx="0"/>
+  <text x="20" y="58" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="48" font-weight="900" letter-spacing="-2">
+    <tspan fill="#0b1426">dent</tspan><tspan fill="#10b981">AI</tspan>
+  </text>
+</svg>
